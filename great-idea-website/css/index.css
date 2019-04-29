@@ -77,7 +77,10 @@ nav {
 a, .logo{
 	width: 130px;
 	display: inline-block;
+	color: gray;
+	text-decoration: none;
 }
+
 
 header {
 	display: inline-block;

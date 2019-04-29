@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4374dd5-1c71-48db-bbd7-c189a66c33fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/great-idea-website/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea-website/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/great-idea-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea-website/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/great-idea-website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="85" column="6" lean-forward="true" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+            <state relative-caret-position="388">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/great-idea-website/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="129" column="21" lean-forward="true" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+            <state relative-caret-position="432">
+              <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -80,9 +81,9 @@
       <find>middle-</find>
       <find>width</find>
       <find>body {</find>
-      <find>nonce-class</find>
       <find>h3</find>
       <find>h2</find>
+      <find>nonce-class</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,16 +94,15 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
-        <option value="$PROJECT_DIR$/great-idea-website/css/index.css" />
         <option value="$PROJECT_DIR$/great-idea-website/index.html" />
+        <option value="$PROJECT_DIR$/great-idea-website/css/index.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1918" />
-    <option name="y" value="519" />
     <option name="width" value="1922" />
-    <option name="height" value="520" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -175,15 +175,15 @@
       <option name="presentableId" value="Default" />
       <updated>1556413076711</updated>
       <workItem from="1556413080469" duration="175000" />
-      <workItem from="1556413345543" duration="34850000" />
+      <workItem from="1556413345543" duration="36709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35025000" />
+    <option name="totallyTimeSpent" value="36884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1918" y="519" width="1922" height="520" extended-state="0" />
+    <frame x="1918" y="0" width="1922" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.015923567" />
@@ -209,9 +209,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design-files/desktop.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -236,17 +233,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/great-idea-website/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="129" column="21" lean-forward="true" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/design-files/desktop.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/great-idea-website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="85" column="6" lean-forward="true" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+        <state relative-caret-position="388">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/great-idea-website/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
         </state>
       </provider>
     </entry>
